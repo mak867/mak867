@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Mohamed Ali Kazi</h1>
+
+<h3 align="center">
+Cyber Security Architect | AI and AI Security | Cloud Security | Researcher & Educator
+</h3>
+
+<p align="center">
+Designing secure systems • Exploring AI and AI security • Building resilient cloud architectures
+</p>
+
 ## Hi there 👋
 
 <!--
