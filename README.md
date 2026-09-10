@@ -127,6 +127,14 @@ Machine learning approaches for detecting malware command-and-control (C&C) netw
 A developing practical lab exploring AI security, LLM threats, prompt injection and secure AI system design.
 
 **Focus Areas:** AI Security • LLM Security • Prompt Injection • Secure AI Architecture • AI Threat Modelling
+
+<br>
+
+### 📚 [Research Publications](https://github.com/mak867/research-publications)
+
+A collection of my published research across Cyber Security, Artificial Intelligence, Malware Detection and Network Security.
+
+**Research Profiles:** [Google Scholar](https://scholar.google.com/citations?user=wt8vuqoAAAAJ) • [ORCID](https://orcid.org/0000-0001-5105-3581)
 ---
 
 ## 📊 GitHub Stats
