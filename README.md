@@ -39,33 +39,33 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 
 ## 🛠️ Tech & Security Stack
 
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,azure,aws,docker,kubernetes,terraform&theme=dark" />
+
+</p>
+
 ### 🔐 Cyber Security
+
 <p>
-  <img src="https://img.shields.io/badge/Zero%20Trust-111111?style=for-the-badge&logo=securityscorecard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threat%20Modelling-111111?style=for-the-badge&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security%20Architecture-111111?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Risk%20Management-111111?style=for-the-badge&logo=datadog&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Defender-00A4EF?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-E34F26?style=flat-square" />
 </p>
 
-### ☁️ Cloud & Platforms
+### 📚 Frameworks & Architecture
+
 <p>
-  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft%20Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO%2027001-005A9C?style=flat-square&logo=iso&logoColor=white" />
+<img src="https://img.shields.io/badge/NIST%20CSF-1F4E79?style=flat-square" />
+<img src="https://img.shields.io/badge/Zero%20Trust-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Security%20Architecture-2F4F4F?style=flat-square" />
+<img src="https://img.shields.io/badge/Threat%20Modelling-8B0000?style=flat-square" />
 </p>
 
-### 🤖 AI & Development
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-### 🌐 Infrastructure & Networking
-<p>
-  <img src="https://img.shields.io/badge/Cisco-111111?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virtualisation-111111?style=for-the-badge&logo=vmware&logoColor=white" />
-</p>
