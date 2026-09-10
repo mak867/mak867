@@ -47,7 +47,6 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 ## 🛠️ Tech & Security Stack
 
 ---
----
 
 ## 🏆 Certifications & Professional Credentials
 
@@ -71,6 +70,8 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 ### 🌐 Networking
 ![CCNP Routing](https://img.shields.io/badge/Cisco-CCNP%20Routing-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![CCNP Security](https://img.shields.io/badge/Cisco-CCNP%20Security-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+---
 
 ## 🛠️ Languages and Tools
 
