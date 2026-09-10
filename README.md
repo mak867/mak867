@@ -47,6 +47,30 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 ## 🛠️ Tech & Security Stack
 
 ---
+---
+
+## 🏆 Certifications & Professional Credentials
+
+### 🔐 Cyber Security
+![CISSP](https://img.shields.io/badge/CISSP-005571?style=flat-square)
+![ISSAP](https://img.shields.io/badge/CISSP--ISSAP-005571?style=flat-square)
+![CISM](https://img.shields.io/badge/CISM-0072CE?style=flat-square)
+![CRISC](https://img.shields.io/badge/CRISC-0072CE?style=flat-square)
+![CIPP/E](https://img.shields.io/badge/CIPP%2FE-5B2C6F?style=flat-square)
+
+### 🏗️ Architecture & Service Management
+![SABSA](https://img.shields.io/badge/SABSA-Security%20Architecture-34495E?style=flat-square)
+![TOGAF](https://img.shields.io/badge/TOGAF-Enterprise%20Architecture-34495E?style=flat-square)
+![ITIL Master](https://img.shields.io/badge/ITIL%20v5-Master-6C3483?style=flat-square)
+
+### ☁️ Cloud & Microsoft
+![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Microsoft Security](https://img.shields.io/badge/Microsoft%20Security-Expert-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+
+### 🌐 Networking
+![CCNP Routing](https://img.shields.io/badge/Cisco-CCNP%20Routing-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![CCNP Security](https://img.shields.io/badge/Cisco-CCNP%20Security-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 ## 🛠️ Languages and Tools
 
