@@ -34,6 +34,13 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 
 📚 Continuously developing expertise across **AI, Cyber Security, Cloud and Enterprise Architecture**
 
+## 🚀 Currently Exploring
+
+- 🤖 **AI & AI Security** — secure AI architectures, LLM security and emerging AI threats
+- 🔐 **Security Architecture** — Zero Trust, threat modelling and secure-by-design approaches
+- ☁️ **Cloud Security** — security architecture across Azure and AWS
+- 🧠 **AI for Cyber Security** — applying machine learning to cyber security challenges
+- 🧪 **AI Security Lab** — developing practical experiments around AI and LLM security
 
 ---
 
