@@ -8,6 +8,11 @@ Cyber Security Architect | AI and AI Security | Cloud Security | Researcher & Ed
 Designing secure systems • Exploring AI and AI security • Building resilient cloud architectures
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Cyber+Security+Architecture;AI+Security+%26+Secure+AI;Cloud+Security+%7C+AWS+%7C+Azure;Zero+Trust+%7C+Risk+%7C+Security+Design;Cyber+Security+Research+%26+Education" alt="Typing SVG" />
+  </a>
+</p>
 
 <!--
 **mak867/mak867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
