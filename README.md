@@ -14,17 +14,22 @@ Designing secure systems • Exploring AI and AI security • Building resilient
   </a>
 </p>
 
-<!--
-**mak867/mak867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Cyber Security Architect specialising in **Security Architecture, Cloud Security and Zero Trust**
+
+🤖 Exploring **Artificial Intelligence, AI Security and secure adoption of emerging technologies**
+
+☁️ Working across **AWS, Microsoft Azure and enterprise cloud environments**
+
+🧠 Research background in **Machine Learning for Malware Detection and Cyber Security**
+
+🎓 Cyber Security **Researcher & Educator**, combining industry experience with academic teaching
+
+🏗️ Interested in **Security Architecture, Threat Modelling, Risk Management and Secure-by-Design**
+
+🌐 Building and sharing practical projects covering **Cyber Security, AI, Cloud and Networking**
+
+📚 Continuously developing expertise across **AI, Cyber Security, Cloud and Enterprise Architecture**
