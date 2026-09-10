@@ -44,10 +44,6 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 
 ---
 
-## 🛠️ Tech & Security Stack
-
----
-
 ## 🏆 Certifications & Professional Credentials
 
 ### 🔐 Cyber Security
