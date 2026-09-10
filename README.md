@@ -63,9 +63,10 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 ![ITIL Master](https://img.shields.io/badge/ITIL%20v5-Master-6C3483?style=flat-square)
 
 ### ☁️ Cloud & Microsoft
-![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Professional-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Microsoft Security](https://img.shields.io/badge/Microsoft%20Security-Expert-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+<img src="https://img.shields.io/badge/AZ--305-Azure%20Solutions%20Architect%20Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/MS--102-Microsoft%20365%20Administrator%20Expert-0078D4?style=flat-square&logo=microsoft365&logoColor=white" />
+<img src="https://img.shields.io/badge/SC--100-Cybersecurity%20Architect%20Expert-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer%20Associate-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
 
 ### 🌐 Networking
 ![CCNP Routing](https://img.shields.io/badge/Cisco-CCNP%20Routing-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
