@@ -78,6 +78,19 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧠 [AI Malware Detection](https://github.com/mak867/AI-Malware-Detection)
+
+Machine learning approaches for detecting malware command-and-control (C&C) network traffic, based on my published research.
+
+**Technologies:** Python • Machine Learning • Network Traffic Analysis • Random Forest • Decision Tree • KNN
+
+📄 [Read the published research](https://www.mdpi.com/2624-800X/5/1/4)
+
+---
+
+
 ## 📊 GitHub Stats
 
 <p align="center">
