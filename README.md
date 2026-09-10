@@ -69,7 +69,7 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Tech & Security Stack
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
