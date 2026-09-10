@@ -22,7 +22,7 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 
 🤖 Exploring **Artificial Intelligence, AI Security and secure adoption of emerging technologies**
 
-☁️ Working across **AWS, Microsoft Azure and enterprise cloud environments**
+☁️ Working across **AWS, Google cloud, Microsoft Azure and enterprise cloud environments**
 
 🧠 Research background in **Machine Learning for Malware Detection and Cyber Security**
 
