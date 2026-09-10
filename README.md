@@ -8,7 +8,6 @@ Cyber Security Architect | AI and AI Security | Cloud Security | Researcher & Ed
 Designing secure systems • Exploring AI and AI security • Building resilient cloud architectures
 </p>
 
-## Hi there 👋
 
 <!--
 **mak867/mak867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
