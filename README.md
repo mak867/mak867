@@ -56,6 +56,8 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 ![CISM](https://img.shields.io/badge/CISM-0072CE?style=flat-square)
 ![CRISC](https://img.shields.io/badge/CRISC-0072CE?style=flat-square)
 ![CIPP/E](https://img.shields.io/badge/CIPP%2FE-5B2C6F?style=flat-square)
+<img src="https://img.shields.io/badge/ISO%2FIEC%2027001-Lead%20Auditor-005A9C?style=flat-square&logo=iso&logoColor=white" />
+<img src="https://img.shields.io/badge/ISO%2FIEC%2027001-Lead%20Implementer-005A9C?style=flat-square&logo=iso&logoColor=white" />
 
 ### 🏗️ Architecture & Service Management
 ![SABSA](https://img.shields.io/badge/SABSA-Security%20Architecture-34495E?style=flat-square)
