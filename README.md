@@ -115,7 +115,7 @@ Machine learning approaches for detecting malware command-and-control (C&C) netw
 **Technologies:** Python • Machine Learning • Network Traffic Analysis • Random Forest • Decision Tree • KNN
 
 📄 [Read the published research](https://www.mdpi.com/2624-800X/5/1/4)
-
+<br>
 ### 🤖 [AI Security Lab](https://github.com/mak867/AI-Security-Lab)
 
 A developing practical lab exploring AI security, LLM threats, prompt injection and secure AI system design.
