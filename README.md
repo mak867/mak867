@@ -76,6 +76,17 @@ Designing secure systems • Exploring AI and AI security • Building resilient
   <img src="https://img.shields.io/badge/Cisco-CCNP%20Enterprise-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
 </p>
 
+### 🎓 Instructor & Trainer Credentials
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco%20Networking%20Academy-Certified%20Instructor-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instructor-CCNA-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instructor-CCNP-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instructor-Cybersecurity%20Courses-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft-MCT%20%7C%20Microsoft%20Certified%20Trainer-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+
+</p>
+
 ---
 
 ## 🛠️ Tech & Security Stack
