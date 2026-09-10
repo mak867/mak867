@@ -33,3 +33,39 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 🌐 Building and sharing practical projects covering **Cyber Security, AI, Cloud and Networking**
 
 📚 Continuously developing expertise across **AI, Cyber Security, Cloud and Enterprise Architecture**
+
+
+---
+
+## 🛠️ Tech & Security Stack
+
+### 🔐 Cyber Security
+<p>
+  <img src="https://img.shields.io/badge/Zero%20Trust-111111?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Threat%20Modelling-111111?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security%20Architecture-111111?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Risk%20Management-111111?style=for-the-badge&logo=datadog&logoColor=white" />
+</p>
+
+### ☁️ Cloud & Platforms
+<p>
+  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-111111?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### 🤖 AI & Development
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-111111?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+### 🌐 Infrastructure & Networking
+<p>
+  <img src="https://img.shields.io/badge/Cisco-111111?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-111111?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtualisation-111111?style=for-the-badge&logo=vmware&logoColor=white" />
+</p>
