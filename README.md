@@ -123,7 +123,6 @@ A developing practical lab exploring AI security, LLM threats, prompt injection 
 **Focus Areas:** AI Security • LLM Security • Prompt Injection • Secure AI Architecture • AI Threat Modelling
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
