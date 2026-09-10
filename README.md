@@ -133,3 +133,19 @@ Machine learning approaches for detecting malware command-and-control (C&C) netw
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mak867&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/mohzay/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://cybersa.co.uk">
+    <img src="https://img.shields.io/badge/CyberSA-Website-00A98F?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.mdpi.com/2624-800X/5/1/4">
+    <img src="https://img.shields.io/badge/Research-Publication-00843D?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+</p>
