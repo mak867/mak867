@@ -69,8 +69,12 @@ Designing secure systems • Exploring AI and AI security • Building resilient
 <img src="https://img.shields.io/badge/DP--600-Fabric%20Analytics%20Engineer%20Associate-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
 
 ### 🌐 Networking
-![CCNP Routing](https://img.shields.io/badge/Cisco-CCNP%20Routing-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![CCNP Security](https://img.shields.io/badge/Cisco-CCNP%20Security-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Cisco-CCNP%20Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-CCNP%20Security-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-CCNP%20Service%20Provider-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-CCNP%20Enterprise-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+</p>
 
 ---
 
